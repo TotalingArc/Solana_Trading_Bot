@@ -1,3 +1,8 @@
+Disclaimer
+This trading bot is for educational purposes only. Trading cryptocurrencies involves significant risk, and you should not trade with money you cannot afford to lose.
+Always do your own research before making any investment decisions. The author is not responsible for any financial losses you may incur.
+
+
 Solana Trading Bot
 This is a Node.js-based trading bot script designed to automate the process of buying Solana (SOL) on the Binance cryptocurrency exchange based on specific conditions.
 
