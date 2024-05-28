@@ -21,7 +21,7 @@ CoinGecko API key
 
 Installation
 Clone the repository:
-</>git clone https://github.com/yourusername/solana-trading-bot.git</>
+</>git clone https://github.com/TotalingArc/Solana-Trading-Bot.git</>
 </>cd solana-trading-bot</>
 
 Install the required dependencies:
