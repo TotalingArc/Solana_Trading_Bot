@@ -1,0 +1,17 @@
+{
+  "name": "solana_trading_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ccxt": "^4.3.31",
+    "dotenv": "^16.4.5",
+    "node-fetch": "^3.3.2",
+    "winston": "^3.13.0"
+  }
+}
