@@ -16,8 +16,8 @@ Execute Trades: Places a limit buy order on Binance with predefined stop-loss an
 Prerequisites
 Node.js installed
 npm (Node Package Manager) installed
-Binance account with API key and secret
-CoinGecko API key
+Binance account with API key and secret (Or any other exchange)
+CoinGecko API key (or any other api market data)
 
 Installation
 Clone the repository:
